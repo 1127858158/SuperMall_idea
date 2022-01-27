@@ -1,1 +1,5 @@
-自动变绿色是怎么回事呢？
+开发模式：前后端分离
+开发语言：HTML、CSS、JavaScript、Java
+开发框架：SpringBoot、Vue.js
+数据库：MySQL
+
